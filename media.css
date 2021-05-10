@@ -1,0 +1,47 @@
+@media only screen and (min-width: 1000px) {
+	body {
+		margin-left: 150px;
+		margin-right: 150px;
+	}
+
+	a {
+		font-size: 28px;
+	}
+
+	.title {
+		font-size: 64px !important;
+	}
+
+	#content {
+		font-size: 36px !important;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	body {
+		margin-left: 12px;
+		margin-right: 12px;
+	}
+
+	p {
+		margin-top: -7px;
+		margin-bottom: -7px;
+		
+	}
+
+	#header {
+		font-size: 18px !important;
+	}
+
+	.title {
+		font-size: 36px !important;
+	}
+
+	.align-right {
+		float: none;
+	}
+
+	#content {
+		font-size: 32px !important;
+	}
+}

@@ -1,0 +1,22 @@
+#header {
+	font-size: 22px;
+}
+
+#content {
+	margin-top: 14px;
+	padding: 14px;
+	background-color: #39393911;
+	font-size: 30px;
+}
+
+.align-right {
+	float: right;
+}
+
+.title {
+	font-size: 48px;
+}
+
+.center {
+	text-align: center;
+}
